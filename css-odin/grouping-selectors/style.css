@@ -1,0 +1,13 @@
+.styling-first-button, .styling-second-button {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.styling-first-button {
+    color: white;
+    background-color: black;
+}
+
+.styling-second-button {
+    background-color: yellow;
+}
