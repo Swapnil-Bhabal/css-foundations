@@ -1,0 +1,32 @@
+.box {
+    width: 500px;
+    height: 200px;
+    background-color: aqua;
+    border: 2px black solid;
+}
+
+.child-box {
+    width: auto;
+    height: auto;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    margin: 4px 0 4px 0;
+}
+
+.parent {
+    position: relative;
+}
+
+.child1 {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.child2 {
+
+}
+
+.child3 {
+
+}
